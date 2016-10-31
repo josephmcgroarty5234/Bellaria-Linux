@@ -1,0 +1,18 @@
+Items and Weapons
+	weapondamage
+		is a % that when multiplied by player's base damage
+		it adds to that, making the player stronger
+		
+	weaponeffect
+		if a special weapon (*), can have effects, like
+		lighting a target on fire, causing paralysis, or
+		others.
+
+	armorprotection
+		Same concept as weapon damage, % multiplied by base
+		health and that value added to health to give extra
+		protection
+
+	armoreffect
+		Same as weaponeffect, only giving immunities to the
+		player
